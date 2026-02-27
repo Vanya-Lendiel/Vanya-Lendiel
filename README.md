@@ -23,5 +23,5 @@
 
 <p>
 <img src="https://skillicons.dev/icons?i=windows,vscode" />
-<img src="https://img.icons8.com/?size=100&id=W0YEwBDDfTeu&format=png&color=000000" />
+<img src="https://chatgpt.com/c/69a1d69a-4008-8333-a565-679a3f93a11a" />
 </p>
