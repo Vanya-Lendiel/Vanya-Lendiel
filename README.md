@@ -23,5 +23,5 @@
 
 <p>
 <img src="https://skillicons.dev/icons?i=windows,vscode" />
-<img width="60" height="512" alt="image" src="https://github.com/user-attachments/assets/0f4c222e-1381-475a-b7de-d48e6257caf4" />
+<img width="50" height="512" alt="image" src="https://github.com/user-attachments/assets/0f4c222e-1381-475a-b7de-d48e6257caf4" />
 </p>
