@@ -23,5 +23,4 @@
 
 <p>
 <img src="https://skillicons.dev/icons?i=windows,vscode" />
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" />
 </p>
