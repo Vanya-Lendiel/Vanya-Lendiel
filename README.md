@@ -23,5 +23,5 @@
 
 <p>
 <img src="https://skillicons.dev/icons?i=windows,vscode" />
-<img src="https://img.icons8.com/?size=100&id=4QNavJEq1R1g&format=png&color=000000" />
+<img src="https://icons8.com/icon/W0YEwBDDfTeu/figma" />
 </p>
